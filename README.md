@@ -28,20 +28,21 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
 
 ##
 
-:chart_with_upwards_trend: Meus Commits
+chart_with_upwards_trend: Meus Commits
 <div align='center'>
 
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
- 
-:chart_with_upwards_trend: Linguagens Utilizadas
+
+
+ ## :chart_with_upwards_trend: Linguagens Utilizadas
 <div align='center'>
  
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-:chart_with_upwards_trend: Minhas Contribuições
+##:chart_with_upwards_trend: Minhas Contribuições
 <div align='center'>
  
 <div align='center'>
