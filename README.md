@@ -28,8 +28,8 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
 
 ##
 
-## 📈: Meus Commits
-<div align='center'>
+## 📈: Meus Commits <div align='center'>
+
 
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
