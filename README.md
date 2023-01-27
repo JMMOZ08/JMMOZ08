@@ -9,12 +9,12 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
  <p>
   <img align="center" alt="joao" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </p>
+  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 ##
   
@@ -31,8 +31,6 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
 
 ## :chart_with_upwards_trend: Meus Commits 
 <div align='center'>
-
-
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 
