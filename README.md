@@ -55,6 +55,7 @@
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  
+ 
 ## :chart_with_upwards_trend: Linguagens Utilizadas
 <div align='left'>
  
