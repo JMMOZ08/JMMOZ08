@@ -53,9 +53,7 @@
 
  <div align='center'>
   <h2>
-    <a
-    target="_blank"
-    style="text-decoration: none"
+   <a>target="_blank"style="text-decoration: none"</a>
   </h2>
 </div>
 
