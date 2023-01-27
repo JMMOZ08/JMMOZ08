@@ -3,7 +3,7 @@
 
  O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecnologias abaixo.
  
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/html-5.svg" width="32" height="32" />
 </a>
 
