@@ -15,8 +15,8 @@
 </div>
   
   ##
- 
-<div> 
+  
+ <div> 
   <a href="https://www.youtube.com/channel/UC4HGXEkIXAStEavOjL2KjXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jmmoadm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:darakosmz8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,6 +25,14 @@
 </div>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
+
+ <div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+  </h2>
+</div>
 
  <div align='center'>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
