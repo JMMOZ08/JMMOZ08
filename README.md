@@ -26,9 +26,10 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
   
 </div>
 
-##
+#
 
-## 📈: Meus Commits <div align='center'>
+<div align='center'>
+## 📈: Meus Commits 
 
 
 <div align='center'>
