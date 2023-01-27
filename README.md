@@ -28,7 +28,7 @@ O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecno
 
 ##
 
-## :chart_with_upwards_trend: Meus Commits
+chart_with_upwards_trend: Meus Commits
 <div align='center'>
 
 <div align='center'>
