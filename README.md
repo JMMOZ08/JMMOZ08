@@ -55,16 +55,17 @@
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  
-<div align='left'>
 ## :chart_with_upwards_trend: Linguagens Utilizadas
+<div align='left'>
  
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-<div align='left'>
-## :chart_with_upwards_trend: Minhas Contribuições
 
+## :chart_with_upwards_trend: Minhas Contribuições
+<div align='left'>
+ 
 <div align='center'>
 <a height="140em" href="http://www.github.com/JMMOZ08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JMMOZ08&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
