@@ -3,41 +3,15 @@
 
  O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecnologias abaixo.
  
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="./images/html-5.svg" width="32" height="32" />
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="./images/css3.svg" width="32" height="32" />
-</a>
-
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img src="./images/javascript.svg" width="32" height="32" />
-</a>
-
-<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
-<img src="./images/react.svg" width="32" height="32" />
-</a>
-
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-<img src="./images/typescript.svg" width="32" height="32" />
-</a>
-
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/git.svg" width="32" height="32" />
-</a>
-
-<a href="https://styled-components.com" target="_blank" rel="noreferrer">
-<img src="./images/styled-components.png" width="32" height="32" />
-</a>
-
-<a href="https://www.figma.com" target="_blank" rel="noreferrer">
-<img src="./images/figma.svg" width="32" height="32" />
-</a>
-
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-<img src="./images/vs-code.svg" width="32" height="32" />
-</a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   
   ##
   
