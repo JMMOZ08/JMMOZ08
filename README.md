@@ -6,8 +6,9 @@
 O meu objetivo é desenvolver código de alta qualidade.</h4>
 </div>
 
-<p><h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2></p><p align="center"><br />
-<a href="https://skillicons.dev">
+<p><h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2></p>
+<p align="center">
+<a href="https://skillicons.dev"><br />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,nextjs,react,nodejs,expressjs,postgresql,mongodb,sass,git,github," />
 </a>
 </p>
