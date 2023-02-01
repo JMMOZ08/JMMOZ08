@@ -5,13 +5,14 @@
 
 <br><br>
 
-##Sou Desenvolvedor João Zanata.
+<h2>Sou Desenvolvedor João Zanata.</h2>
 
 
-O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecnologias abaixo.
+O meu objetivo é desenvolver codigo de alta qualidade. 
+
   
 ##
- 
+<2> Minhas Hard Skils</2>
 <br>
 <h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
