@@ -8,13 +8,13 @@
 <h2>Sou Desenvolvedor João Zanata.</h2>
 
 
-O meu objetivo é desenvolver codigo de alta qualidade. 
+<h4>O meu objetivo é desenvolver codigo de alta qualidade.</h4>
 
   
 ##
-<2> Minhas Hard Skils</2>
+
 <br>
-<h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
+<h2 align="center">🛠️&ensp; <i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
