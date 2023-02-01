@@ -1,10 +1,10 @@
 <div align = "center">
   <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
 
-##
+
 <h2>Sou Desenvolvedor João Zanata,<br />
 O meu objetivo é desenvolver código de alta qualidade.</h4>
+</div>
 
 
 <h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2>
