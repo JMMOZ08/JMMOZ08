@@ -24,13 +24,13 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  </div>
 
 
-#:chart_with_upwards_trend: Meus Commits 
+# :chart_with_upwards_trend: Meus Commits 
 <div align='center' >  
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 
 
-#:chart_with_upwards_trend: Linguagens Utilizadas
+<p> chart_with_upwards_trend: Linguagens Utilizadas</p>
 <div align='center' >
  
 <div align='center'>
