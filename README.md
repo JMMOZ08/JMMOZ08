@@ -7,9 +7,9 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
 </div>
 
 <p><h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2></p>
-<p align="center">
+  <p align="center">
 <a href="https://skillicons.dev">
-<br /><img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,nextjs,react,nodejs,expressjs,postgresql,mongodb,sass,git,github," />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,nextjs,react,nodejs,expressjs,postgresql,mongodb,sass,git,github," />
 </a>
 </p>
 
@@ -24,7 +24,8 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  </div>
  
 ##
-# :chart_with_upwards_trend: Meus Commits 
+<div>
+# :chart_with_upwards_trend: Meus Commits</div>
 <div align='center' >  
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -33,8 +34,7 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
 <div align='center' > 
 <div align='center'>
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-   
+</div>   
 
 # :chart_with_upwards_trend: Minhas Contribuições
 <div align='center' > 
