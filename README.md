@@ -7,17 +7,18 @@
 <h2>Sou Desenvolvedor João Zanata.</h2>
 <h4>O meu objetivo é desenvolver código de alta qualidade.</h4> 
 
-<
+
 <h2 align="center">🛠️&ensp; <i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
   </a>
 </p>
+<br><br><br><br><br>
 
 ##
   
-<div> 
+<div align="center">
   <a href="https://www.youtube.com/channel/UC4HGXEkIXAStEavOjL2KjXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jmmoadm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:darakosmz8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
