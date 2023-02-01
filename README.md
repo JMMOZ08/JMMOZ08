@@ -6,11 +6,7 @@
 <br><br>
 
 <h2>Sou Desenvolvedor João Zanata.</h2>
-
-
-<h4>O meu objetivo é desenvolver codigo de alta qualidade.</h4>
-
-  
+<h4>O meu objetivo é desenvolver codigo de alta qualidade.</h4> 
 ##
 
 <br>
@@ -20,8 +16,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
   </a>
 </p>
-<br><br><br><br><br>
-  
+<br><br><br><br><br>  
 ##
   
 <div> 
