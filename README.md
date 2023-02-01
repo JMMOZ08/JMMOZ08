@@ -1,20 +1,25 @@
-### Ola, Sou Desenvolvedor João Zanata.
+<!--cabeçalho HELLO WORD-->
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
+
+<br><br>
+
+##Sou Desenvolvedor João Zanata.
 
 
 O meu objetivo é desenvolver codigo de alta qualidade. Tenho projetos nas tecnologias abaixo.
   
 ##
  
-<div style="display: inline_block"><br>
- <p>
-  <img align="center" alt="joao" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- </p>
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<br>
+<h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
+  </a>
+</p>
+<br><br><br><br><br>
   
 ##
   
