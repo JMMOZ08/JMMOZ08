@@ -4,8 +4,9 @@
 </div>
 
 
-<h2>Sou Desenvolvedor João Zanata.</h2>
-<p>O meu objetivo é desenvolver código de alta qualidade.</p>.
+<ul><h2>Sou Desenvolvedor João Zanata.</h2>
+  <li><h4>O meu objetivo é desenvolver código de alta qualidade.<h4></li>
+<ul>
 
 
 <h2 align="center">🛠️&ensp; <i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2>
