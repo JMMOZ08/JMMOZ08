@@ -10,7 +10,7 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
 <h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=HTML, CSS, Bootstrap, JavaScript, TypeScript, Next.js, ReactJS, Node.js, Express.js, PostgreSQL, MongoDB, Bulma, Sass, Git e Github," />
   </a>
 </p>
 
