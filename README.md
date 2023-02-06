@@ -6,9 +6,8 @@
 O meu objetivo é desenvolver código de alta qualidade.</h4>
 </div>
 
-<p><h2 align="center">
-🛠️&ensp;<i>MINHAS HARD SKILLS</i>&ensp;🛠️</h2></p>
-  <p align="center">
+<p><h2 align="center">🛠️&ensp;<i>MINHAS HARD SKILLS</i>&ensp;🛠️</h2></p>
+<p align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,nextjs,react,nodejs,expressjs,postgresql,mongodb,sass,git,github," />
 </a>
@@ -26,20 +25,20 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  
 ##
 
-:chart_with_upwards_trend: Meus Commits
+:chart_with_upwards_trend:Meus Commits
 <div align='left'>   
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   
 ##
-:bookmark_tabs: Linguagens Utilizadas
+:bookmark_tabs:Linguagens Utilizadas
 <div align='left'>   
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
 </div>   
 
 ## 
-:chart_with_upwards_trend: Minhas Contribuições
+:chart_with_upwards_trend:Minhas Contribuições
 <div align='left'>   
 <div align='center'>
 <a height="150em" href="http://www.github.com/JMMOZ08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JMMOZ08&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
