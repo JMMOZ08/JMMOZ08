@@ -30,8 +30,10 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
   
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  
+##
 
-## :bookmark_tabs: Linguagens Utilizadas
+bookmark_tabs: Linguagens Utilizadas
 <div align='center'> 
   
 <div align='center'>
