@@ -24,10 +24,6 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  </div>
  
 
-
-## :chart_with_upwards_trend:Meus Commits
-<div align='center'>
-  
 ## :bookmark_tabs:Linguagens Utilizadas
 <div align='center'>
   
@@ -35,12 +31,14 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-</div>   
+</div>
+
+<div align='center'>
+<a height="150em" href="http://www.github.com/JMMOZ08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JMMOZ08&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
 
 ## :chart_with_upwards_trend:Minhas Contribuições
 <div align='center'>
   
-<div align='center'>
-<a height="150em" href="http://www.github.com/JMMOZ08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JMMOZ08&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+
 
