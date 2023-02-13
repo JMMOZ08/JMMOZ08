@@ -23,10 +23,11 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
   <a href="https://www.linkedin.com/in/joaomarcoszanata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-## :chart_with_upwards_trend:Meus Commits
+<div>## :chart_with_upwards_trend:Meus Commits
 <div align='center'>  
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+</div>
   
 ## :bookmark_tabs:Linguagens Utilizadas
 <div align='center'>  
