@@ -27,16 +27,14 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
 
 ## :chart_with_upwards_trend:Meus Commits
 <div align='center'>
-
-<div align='center'>
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-
   
 ## :bookmark_tabs:Linguagens Utilizadas
 <div align='center'>
   
 <div align='center'>
 <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmmoz08&layout=compact&langs_count=7&theme=blue-green"/>
+<div align='center'>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmmoz08&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>   
 
 ## :chart_with_upwards_trend:Minhas Contribuições
