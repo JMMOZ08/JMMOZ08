@@ -25,6 +25,7 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  
 ##
 
+<div align='center'>
 ## :chart_with_upwards_trend:Meus Commits
 <div align='center'>
 
