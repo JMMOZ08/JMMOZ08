@@ -25,7 +25,7 @@ O meu objetivo é desenvolver código de alta qualidade.</h4>
  
 
 ##
-<p><h2 align="center">🛠&ensp;<i>Linguagens Utilizadas e Estatisticas</i>&ensp;🛠</h2></p>
+<p><h2 align="center">&ensp;<i>Linguagens Utilizadas e Estatisticas</i>&ensp;</h2></p>
 
   
 <div align='center'>
